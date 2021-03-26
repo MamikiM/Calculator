@@ -18,4 +18,10 @@ public class Addition
     public static int integerSum(int a, int b){
         return a + b;
     }
+     /*
+        this sums up real numbers
+    */
+     public static double doubleSum(double a, double b){
+        return a + b;
+    }
 }
