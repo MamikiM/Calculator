@@ -1,0 +1,4 @@
+#to ignore netbeans files by Git
+/nbproject/
+build.xml
+manifest.mf
