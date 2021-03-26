@@ -11,6 +11,10 @@ package ac.za.cput.calculator;
  */
 public class Addition 
 {
+    
+    /*
+        this work is only on the studentnumber brunch
+    */
     public static int integerSum(int a, int b){
         return a + b;
     }
